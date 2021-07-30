@@ -1,0 +1,19 @@
+.input{
+    margin-top: 50px;
+    
+
+}
+.text{
+    min-width:30%;
+    max-height:max-content;
+}
+
+.inputa{
+    margin-top: 20px;
+}
+.head{
+    font-size: larger;
+    font-weight: bold;
+    text-align: left;
+}
+
