@@ -64,9 +64,7 @@ const TutoList = () => {
  </div>
                     
   </div>
-   <div>
-                   <button type="button" className="btn btn-outline-danger btncls" >Remove all</button>
-            </div>                                                                           
+                                                     
  
 </div>
 
